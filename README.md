@@ -16,13 +16,13 @@ Assuming you've already installed on your machine: PHP (>= 8.0.2), [Laravel](htt
 Clone the repository
 
 ```bash
-git clone
+git clone https://github.com/FabioTECH1/first_time_for_everything.git
 ```
 
 Switch to the repo folder
 
 ```bash
-cd
+cd first_time_for_everything
 ```
 
 Install all the dependencies using composer
